@@ -1,1 +1,1 @@
-## My Kotlin learning repo 📱
+## Kotlin learning repo 📱
